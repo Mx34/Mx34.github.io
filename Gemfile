@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem "slate"
+gem "jekyll-theme-slate"
