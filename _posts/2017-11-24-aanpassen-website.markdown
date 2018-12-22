@@ -15,10 +15,16 @@ excerpt: "<h2>Aanpassen Website</h2>\r\n<div class=\"rrtimg\"><img src=\"images/
   tot ziens!</em></strong></p>"
 category: Nieuws
 ---
-<h2>Aanpassen Website</h2>
-<div class="rrtimg"><img src="images/work_in_progress1.jpg" alt="Aanpassen Website" width="150" height="136" /></div>
-<p> </p>
-<p>De website van Interieur 't Hofje word momenteel geheel vernieuwd.</p>
-<p>We hopen zo spoedig mogelijk een zo compleet mogelijk aanbod en informatie op de website te plaatsen.</p>
-<p>Voor actualiteiten kijk ook regelmatig op onze <strong><a href="https://www.facebook.com/interieurthofje/" target="_blank" rel="nofollow noopener noreferrer">Facebook pagina(klik).</a></strong></p>
+<h2>Aanpassen Website</h2>
+
+<div class="rrtimg"><img src="images/work_in_progress1.jpg" alt="Aanpassen Website" width="150" height="136" /></div>
+
+<p> </p>
+
+<p>De website van Interieur 't Hofje word momenteel geheel vernieuwd.</p>
+
+<p>We hopen zo spoedig mogelijk een zo compleet mogelijk aanbod en informatie op de website te plaatsen.</p>
+
+<p>Voor actualiteiten kijk ook regelmatig op onze <strong><a href="https://www.facebook.com/interieurthofje/" target="_blank" rel="nofollow noreferrer">Facebook pagina(klik).</a></strong></p>
+
 <p><strong><em>Graag tot ziens!</em></strong></p>
